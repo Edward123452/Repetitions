@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java-refresh" target="1.5" />
+      <module name="java-refresh" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
