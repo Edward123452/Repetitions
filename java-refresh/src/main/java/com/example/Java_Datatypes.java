@@ -6,10 +6,8 @@ import java.io.*;
 
 
 
-class Java_Datatypes{
+public class Java_Datatypes{
     public static void main(String []argh) {
-
-
 
         Scanner sc = new Scanner(System.in);
         sc.useLocale(java.util.Locale.US);
